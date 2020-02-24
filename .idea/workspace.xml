@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3958cc07-a866-4c88-8119-92478a2845b6" name="Default Changelist" comment="" />
+    <list default="true" id="3958cc07-a866-4c88-8119-92478a2845b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadForDays/META-INF/ThreadForDays.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadForDays/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadForDays/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadForDays/ThreadReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadForDays/ThreadReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadForDays/ThreadWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadForDays/ThreadWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadWriter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ThraedsTraning" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y1XtNmc2NZzERiZoV0kC9MiZ6L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Yatzy/Yatsy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -53,6 +63,7 @@
       <workItem from="1582184561958" duration="664000" />
       <workItem from="1582270000845" duration="3577000" />
       <workItem from="1582533659029" duration="8284000" />
+      <workItem from="1582543923210" duration="3071000" />
     </task>
     <servers />
   </component>
@@ -77,26 +88,42 @@
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1582184629699" />
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582535943520" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582543571680">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1582547059840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1582271455026" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582543571680" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582543571679">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582547059840" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1582547059840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1582271455026" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582543571679" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582543571679">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582547059840" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1582547059839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1582271455025" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582543571679" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582543571680">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582547059839" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1582547059840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1582271455026" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582543571680" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582547059840" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582547064124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582547064124" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582547064124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582547064124" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582547064124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582547064124" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582547064124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582547064124" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1582371766874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

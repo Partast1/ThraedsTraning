@@ -6,7 +6,7 @@ public class ThreadWriter extends Thread {
     public void run() {
         Scanner scan = new Scanner(System.in);
         char character = scan.next().charAt(0);
-        threadR.CharaterRecieve(character);
+        threadR.CharacterRecieve(character);
 
     }
 }

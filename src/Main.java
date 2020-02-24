@@ -13,7 +13,8 @@ public class Main {
         tempThread.setPriority(Thread.MAX_PRIORITY);
         writeThread.setPriority(Thread.NORM_PRIORITY);
         readThread.setPriority(Thread.MAX_PRIORITY);
-//        ThreadStart
+//        ThreadStarter
+
 //        ezThread.start();
 //        multiThread.start();
 //        tempThread.start();
@@ -25,10 +26,23 @@ public class Main {
             } catch (Exception e) {
                 System.out.println(e);
             }
+            try {
+
+                writeThread.join();
+            } catch (Exception e) {
+                System.out.println(e);
+            }
+
             readThread.start();
             try {
                 // thread to sleep for 1000 milliseconds
                 readThread.sleep(1000);
+            } catch (Exception e) {
+                System.out.println(e);
+            }
+            try {
+
+                readThread.join();
             } catch (Exception e) {
                 System.out.println(e);
             }
